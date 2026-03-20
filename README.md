@@ -1,7 +1,7 @@
 # WORKSHOP---5-License-Plate-Detection-using-OpenCV-and-Haar-Cascade-Classifier
 
-# Name : SANJEEV RAJ.S
-# Reg No : 212223220096
+# Name : HARISHBALA J
+# Reg No : 212224223002
 
 # Code :
 
@@ -150,7 +150,11 @@ print("Webcam stream ended and resources released.")
 ```
 
 # Output :
-<img width="423" height="465" alt="image" src="https://github.com/user-attachments/assets/069e444f-8a8b-4bab-8dbc-ea534f281144" />
+<img width="1485" height="479" alt="Screenshot 2026-03-21 005252" src="https://github.com/user-attachments/assets/806680bb-5755-4b98-a7f2-985b20d6a7ed" />
+<img width="1113" height="476" alt="Screenshot 2026-03-21 005309" src="https://github.com/user-attachments/assets/07490c94-c2db-4610-8a33-497215f1ba82" />
+<img width="848" height="541" alt="Screenshot 2026-03-21 005400" src="https://github.com/user-attachments/assets/5067f780-15c5-4726-a7f4-4f0cda750b46" />
+<img width="1094" height="498" alt="Screenshot 2026-03-21 005417" src="https://github.com/user-attachments/assets/59b8529b-2858-4c28-936a-659c74e41004" />
+<img width="668" height="518" alt="Screenshot 2026-03-21 005426" src="https://github.com/user-attachments/assets/46963f91-b571-41c8-a16e-09dca04c7038" />
 
-<img width="420" height="342" alt="image" src="https://github.com/user-attachments/assets/baca69b5-b0f2-45d7-9f32-47452354cf60" />
+
 
